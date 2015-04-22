@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<sensor name="BMA250 3-axis Acceleration Sensor">
+	<X value>-0.4213795</X value>
+	<Y value>0.22984336</Y value>
+	<Z value>9.768343</Z value>
+</sensor>
+<sensor name="BMM050 3-axis Magnetic field Sensor">
+	<X value>-3.5</X value>
+	<Y value>-14.0</Y value>
+	<Z value>-25.75</Z value>
+</sensor>
+<sensor name="BMC050 Orientation Sensor">
+	<X value>161.56366</X value>
+	<Y value>-1.5526897</Y value>
+	<Z value>-1.5526897</Z value>
+</sensor>
+<sensor name="BMC050 Rotation Vector Sensor">
+	<X value>0.015136719</X value>
+	<Y value>-0.011230469</Y value>
+	<Z value>-0.9880371</Z value>
+</sensor>
+<sensor name="CM3602 Proximity sensor">
+	<X value>0.0</X value>
+	<Y value>0.0</Y value>
+	<Z value>0.0</Z value>
+</sensor>

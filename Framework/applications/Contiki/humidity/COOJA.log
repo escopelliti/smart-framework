@@ -1,0 +1,20 @@
+[14:33:04 - main] [GUI.java:1308] [INFO] - > Starting Cooja
+[14:33:05 - main] [GUI.java:2826] [INFO] - External tools default settings: /external_tools_linux.config
+[14:33:05 - main] [GUI.java:2856] [INFO] - External tools user settings: /home/ilrosso/.cooja.user.properties
+[14:33:05 - main] [GUI.java:2259] [FATAL] - No read access to file: /home/ilrosso/Documenti/contiki_proj/humidity/humidity.csc
+[14:33:10 - main] [Simulation.java:423] [INFO] - Simulation random seed: 123456
+[14:33:10 - main] [CompileContiki.java:141] [INFO] - > make humidity.sky TARGET=sky 
+[14:33:11 - main] [MspMote.java:217] [INFO] - Loading firmware from: /home/ilrosso/Documenti/contiki_proj/humidity/humidity.sky
+[14:33:11 - main] [MspMote.java:217] [INFO] - Loading firmware from: /home/ilrosso/Documenti/contiki_proj/humidity/humidity.sky
+[14:33:11 - main] [MspMote.java:217] [INFO] - Loading firmware from: /home/ilrosso/Documenti/contiki_proj/humidity/humidity.sky
+[14:33:11 - main] [MspMote.java:217] [INFO] - Loading firmware from: /home/ilrosso/Documenti/contiki_proj/humidity/humidity.sky
+[14:33:11 - main] [MspMote.java:217] [INFO] - Loading firmware from: /home/ilrosso/Documenti/contiki_proj/humidity/humidity.sky
+[14:33:11 - main] [MspMote.java:217] [INFO] - Loading firmware from: /home/ilrosso/Documenti/contiki_proj/humidity/humidity.sky
+[14:33:11 - main] [MspMote.java:217] [INFO] - Loading firmware from: /home/ilrosso/Documenti/contiki_proj/humidity/humidity.sky
+[14:33:11 - main] [MspMote.java:217] [INFO] - Loading firmware from: /home/ilrosso/Documenti/contiki_proj/humidity/humidity.sky
+[14:33:11 - main] [MspMote.java:217] [INFO] - Loading firmware from: /home/ilrosso/Documenti/contiki_proj/humidity/humidity.sky
+[14:33:11 - main] [MspMote.java:217] [INFO] - Loading firmware from: /home/ilrosso/Documenti/contiki_proj/humidity/humidity.sky
+[14:33:38 - Thread-0] [ExecuteJAR.java:223] [INFO] - Checking mote types: 'Sky mote'
+[14:33:38 - Thread-0] [ExecuteJAR.java:234] [INFO] - Checking that Contiki Test Editor exists: false
+[14:38:39 - Thread-1] [ExecuteJAR.java:223] [INFO] - Checking mote types: 'Sky mote'
+[14:38:39 - Thread-1] [ExecuteJAR.java:234] [INFO] - Checking that Contiki Test Editor exists: false

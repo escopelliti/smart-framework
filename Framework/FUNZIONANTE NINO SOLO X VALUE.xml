@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<sensor name="yamaha530 Orientation sensor">
+	<X value>331.41907</X value>
+</sensor>
+<sensor name="yamaha530 3-axis Magnetic Field sensor">
+	<X value>-77.27273</X value>
+</sensor>
+<sensor name="bma222 3-axis Accelerometer">
+	<X value>-0.402</X value>
+</sensor>
+<sensor name="tmd2771 Proximity Sensor">
+	<X value>1.0</X value>
+</sensor>
+<sensor name="tmd2771 Light Sensor">
+	<X value>20.0</X value>
+</sensor>
